@@ -7,7 +7,7 @@
 
 # Site settings
 title: Outer Coast
-email: javier@outercoast.org
+email: aruss947@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A new two-year institution of higher education in Sitka, Alaska, inspired by
   Deep Springs College, focused on student self-governance,
@@ -17,7 +17,7 @@ url: "http://outercoast.org" # the base hostname & protocol for your site
 assetsurl: "https://s3-us-west-2.amazonaws.com/occ-assets/"
 imagesurl: "https://s3-us-west-2.amazonaws.com/occ-assets/images/"
 twitter_username: outercoastak
-github_username:  javbotero
+github_username:  aruss947
 
 # Build settings
 markdown: kramdown
